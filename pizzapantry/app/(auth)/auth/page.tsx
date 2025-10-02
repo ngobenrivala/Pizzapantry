@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function AuthPage() {
+export default function page() {
   return (
-    <div>AuthPage</div>
+    <div>page</div>
   )
 }
